@@ -102,7 +102,7 @@ if(message.channel.type === 'dm') {
  
 if (message.content.startsWith("https://discord.gg/")) {
  
-  message.author.send(`> link server`)/// لینکە سیرڤەرە خۆت
+  message.author.send(`> link https://discord.gg/2a6uGgSgserver`)/// لینکە سیرڤەرە خۆت
  
   client.channels.get("id text").send(
 `> Nerdra la layan <@${message.author.id}> 
